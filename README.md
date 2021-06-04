@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProgramPro2010
 - 👀 I’m interested in pizza and coding
 - 🌱 I’m currently learning how to use python
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on a progect I am working on!
 - 📫 How to reach me gmail (carterbro2010@gmail.com)
 
 <!---
